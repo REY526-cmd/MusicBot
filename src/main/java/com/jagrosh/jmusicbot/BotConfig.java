@@ -72,11 +72,11 @@ public class BotConfig
             Config config = ConfigFactory.load();
             
             // set values
-            token = config.getString("token");
-            prefix = config.getString("prefix");
+            token = config.getString("MTMwNjc5ODU2NjYyMjIzNjcyMg.G0U35X.UHG4S5-ioSqjB18Rw0bpJET0iweXndSd47nVJs");
+            prefix = config.getString("r!");
             altprefix = config.getString("altprefix");
             helpWord = config.getString("help");
-            owner = config.getLong("owner");
+            owner = config.getLong("1098480861185310742");
             successEmoji = config.getString("success");
             warningEmoji = config.getString("warning");
             errorEmoji = config.getString("error");
